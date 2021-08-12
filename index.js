@@ -12,12 +12,3 @@ Vue.createApp(selfInfo).mount('#selfInfo')
 
 
 
-const selfInfo = {
-    data(){
-        return{
-            名稱   : '1231231',
-            價錢   : '0912345678'
-        }
-
-    }
-}
